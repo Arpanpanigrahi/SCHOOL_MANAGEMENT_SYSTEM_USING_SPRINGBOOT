@@ -28,9 +28,20 @@ Basic CRUD (CREATE | READ | UPDATE | DELETE) Operations are Done in the Frontend
 ![App Screenshot](https://i.postimg.cc/13tdrY9m/SMS-2.png)
 ## Screenshots
 
-## Database
+## Database Configuration
 
-Database Name : kje
+This project uses MySQL Database. In order to connect with the database, edit
+
+**spring.datasource.username=root**
+
+**spring.datasource.password=password**
+
+within **application.properties** to match your local MySQL database's username and password.
+
+The application will create a new database named **"kje"**. If you would like to change the name of the database, edit the appropriate database url within application.properties as you would like it.
+
+
+
 
 ![App Screenshot](https://i.postimg.cc/QCm6pcwK/SMS-3.png)
 ## Dashboard
