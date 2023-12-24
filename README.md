@@ -32,7 +32,7 @@ Basic CRUD (CREATE | READ | UPDATE | DELETE) Operations are Done in the Frontend
 ## Relationship Among Entities
 
 ![App Screenshot](https://i.postimg.cc/13tdrY9m/SMS-2.png)
-## Screenshots
+
 
 ## Database Configuration
 
