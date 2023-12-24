@@ -11,11 +11,17 @@ Main target of this system is to Enter the Students , Teachers to their Classes 
 ## Dependencies Used
 
 ☑️ ThymeLeaf
+
 ☑️ Spring Boot DevTools
+
 ☑️ Lombok
+
 ☑️ MySQL Driver
+
 ☑️ Spring Data JPA
+
 ☑️ Spring Web
+
 ☑️ Maven WebJars Dependencies For Bootstrap 5 and Jquery
 
 Dependencies Generate Link : https://start.spring.io/
