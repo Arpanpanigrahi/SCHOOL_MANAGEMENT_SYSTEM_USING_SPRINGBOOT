@@ -35,4 +35,6 @@ Database Name : kje
 ![App Screenshot](https://i.postimg.cc/QCm6pcwK/SMS-3.png)
 ## Dashboard
 
+You can then access the application here: http://localhost:8080/
+
 ![App Screenshot](https://i.postimg.cc/4ysL7WLT/SMS-4.png)
