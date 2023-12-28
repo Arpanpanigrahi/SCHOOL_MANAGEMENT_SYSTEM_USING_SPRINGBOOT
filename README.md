@@ -2,7 +2,7 @@
 
 Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "kje".
 
-
+**Duration:** [20/12/2023] - [28/12/2023]
 
 ![App Screenshot](https://i.postimg.cc/Dy7H8wHb/SMS-1.png)
 
